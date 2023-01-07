@@ -72,7 +72,7 @@ class _signState extends State<sign> {
                 signin();
                 // Navigator.push(context, MaterialPageRoute(builder: (context)=>bio(),),);
               }, child: Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 110, vertical: 15,
+              padding: const EdgeInsets.symmetric(horizontal: 90, vertical: 15,
               ),
               child: Text(
                 "Login now", style: TextStyle(color: Colors.white, fontSize: 18)
